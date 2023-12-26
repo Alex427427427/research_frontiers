@@ -1,0 +1,10 @@
+Robotics
+1. Dexterous, easily remote controllable machines. Applied in high variance dangerous situations requiring capable and adaptive agents.
+
+Intelligence
+1. Condensed architecture of human-like Intelligence. Explicitly define, then test with game worlds.
+
+Physics
+1. Foundations. Examine the EM and optics that lie at the divergence point of GR and QFT. Seek unrecognised consequences that resolve inconsistencies in all of later physics.
+2. Nuclear physics. Antimatter properties and possibility of large scale production. Applicable to making space travel a materially tractable problem.
+3. Photonics. For giggles. Don't know what it's good for but more interesting than most areas. 

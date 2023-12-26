@@ -1,0 +1,51 @@
+The case against attempts to create general purpose autonomous robotic agents. (GPA robots)
+
+Consider the value of robotic systems. 
+    Today, they largely come from deploying single-purpose, dumb but precisely acting agents in narrowly defined problems, where their reliability and precision shines. 
+    Think industrial manufacturing arms. Think autonomously navigating warehouse organisation robots. 
+    This is largely a value of automation. A task taken off the human labour set, and accomplished more reliably and precisely. 
+
+Now consider what we want a GPA robot to do. 
+    Think of a domestic servant robot, which requires complex physical capabilities, so that they can complete a wide range of household chores,
+    with all the real time adaptiveness and error recovery. 
+    Think of a companionship robot, which requires complex and real emotional capabilities. 
+    Think of a disaster response robot, capable of navigating dangerous and high variance environments. 
+    Think of a space exploration robot. 
+    It is hopeless to consider making robots for these applications until they have intelligence whose generality is on par with humans. 
+    My intuition is that the only successful GPA robots will require GI. 
+
+Fine, one says. Not a big deal. Just make sure we research in the right order - first general intelligence (GI), then GPA robots. 
+I argue that even then, even if we do obtain GI in decades or centries and create successful GPA robots afterwards, 
+mankind's capabilities have not expanded. 
+
+    Reconsider those GPA applications. 
+    What is REALLY the value of a GPA robot in those situations? The answer is in two parts, and the two parts are found in the name. 
+    GPA - means the agent will be highly capable, highly adaptive, able to accomplish the goal in the high-variance environment.
+    Robot - means that the agent's existence or time is disposable in a way that a human isn't. 
+
+    In the case of domestic service, we want a fully capable slave to sacrifice time so that we may spend time on better things. 
+    Then, if the GPA robot has an internal world with similar richness to humans, 
+    we have not reached a much better solution than reinstating slavery. The total time and labour sacrifice
+    presented by chores has not been lifted from intelligent agents. 
+
+    In the case of disaster response, we basically want a version of a human intelligence whose existence is disposable. 
+    Then, we have a much easier and reliable solution - projected control. 
+    Have a human sitting in a safe location, remote controlling a fully physically capable machine, to roam the high-variance and dangerous environment. 
+    The control ought to be responsive, intuitive, high level. The machine will have low level recovery motor skills, but lack any higher intelligence or decision making skills.
+    The presence of human decision making at the center of this control system, along with the presence of the physically capable machine 
+    at the environment, brings all the practical benefits of GPAs, while the mindlessness of the machine along with the removal of human
+    from the environment, brings all the benefits of disposability of robots. 
+
+Now consider the scientific question of what makes up a general intelligence? Isn't the pursuit of this question innately valuable?
+    Yes. But it can be fully explored in the information domain, in simulated environments, without any goal of bringing the agents into the real world.
+    Unless the physical world has properties that are vital to the creation of GI. My intuition says otherwise. 
+
+In summary, the pursuit of general purpose autonomous robots is not valuable. 
+Not in the way that it would result in any substantial human progress.
+Mankind's physical and intellectual capabilities will not be meaningfully expanded by GPA robots. 
+IMO a worthwhile frontier in robotics is projected human control, of mindless but fully physically-capable machines,
+deployed in high-variance dangerous environments like space exploration and disaster response. 
+
+
+Alex Li
+2023/12/26 

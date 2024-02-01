@@ -1,2 +1,2 @@
 # research_frontiers
-A set of ideas about research frontiers I deem interesting and valuable.
+Research directions at the frontier of my interest
